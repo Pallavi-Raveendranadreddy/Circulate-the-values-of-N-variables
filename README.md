@@ -18,14 +18,16 @@ display the program
 ### Step 6:
 end the program
 ## Program:def circulate():
-```
+```def circulate():
     n=int(input())
     l=[10,20,30,40,50,60]
     l=l[n:]+l[:n]
     print("After circulating the values are:",l)
+    
+    
 ```
 ## Output:
-![output](./CIRCULATE.PNG)
+![ouput](./CIRCULATE.PNG)
 
 ## Result:
 this program is executed.
