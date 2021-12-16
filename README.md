@@ -25,7 +25,7 @@ end the program
     print("After circulating the values are:",l)
 ```
 ## Output:
-![output](.\circulateoutput.png)
+![output](./circulateoutput.png)
 
 ## Result:
 this program is executed.
